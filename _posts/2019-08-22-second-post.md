@@ -15,3 +15,11 @@ https://docs.anaconda.com/anaconda/user-guide/getting-started/
 
 <strong>1. 텐서플로우란?<strong> <br>  
 <strong>2. 아나콘다란?<strong> <br>
+<strong>3. 아나콘다 설치방법<strong> <br>
+  이제 서서히 깃헙 블로그 관리를 해야하지 싶다. 코드를 올리고 싶은데...
+  1. https://www.anaconda.com/distribution/ 
+  이 사이트에서 Windows용 Python 3.7을 다운로드 받았다. 그 전에 
+  python --version
+코드를 통해 자신이 사용 중인 파이썬의 버전을 확인하자! 그리고 그 뒤로 전부 Next 버튼을 누른다. 
+  2. 파이썬을 활성화하고, 주피터 노트북을 install한다. 
+  여러 사이트들을 참고하느라 뒤죽박죽으로 봐버렸는데, 
