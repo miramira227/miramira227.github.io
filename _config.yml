@@ -20,7 +20,7 @@ locale                   : "en-US"
 title                    : "10m X 365 = 3.65km + a"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "Mira Kim"
 description              : "An amazing website."
 url                      : "https://miramira227.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -110,7 +110,7 @@ analytics:
 author:
   name             : "Mira Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Steady Amateur"
+  bio              : "Steady and Hungry Amateur"
   location         : "Seoul, South Korea"
   email            :
   links:
