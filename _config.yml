@@ -110,8 +110,8 @@ analytics:
 author:
   name             : "Mira Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Steady and Hungry, Amateur"
-  location         : "Seoul, ROK"
+  bio              : "Steady and Hungry"
+  location         : "Seoul, Republic of Korea"
   email            :
   links:
     - label: "Email"
